@@ -14,6 +14,6 @@ Compiling
 Debugging
    (trace factorial)
 
-Bounding
+Binding
    let  - parallel
    let* - sequential	
