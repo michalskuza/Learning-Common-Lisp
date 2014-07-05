@@ -16,4 +16,20 @@ Debugging
 
 Binding
    let  - parallel
-   let* - sequential	
+   let\* - sequential	
+
+Constructors
+   cons
+   quote
+   '
+
+Selectors
+   first   
+   rest
+   
+Recognizers
+   consp
+   null
+
+Capturing the trace to a file 
+   (dribble "output.txt")
