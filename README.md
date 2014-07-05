@@ -11,3 +11,9 @@ or
 Compiling
    (compile-file "testing.lisp")
 
+Debugging
+   (trace factorial)
+
+Bounding
+   let  - parallel
+   let* - sequential	
