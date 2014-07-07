@@ -5,32 +5,39 @@ Learning Common Lisp using this course [Learning Lisp for CMPT 310](http://www2.
 
 Loading 
    
-* (load "testing.lisp") or
-* (load "testing")
+    (load "testing.lisp") or
+    (load "testing")
  
 
 Compiling
-   * (compile-file "testing.lisp")
+
+    (compile-file "testing.lisp")
 
 Debugging
-   * (trace factorial)
+
+    (trace factorial)
 
 Binding
-   * let  - parallel
-   * let\* - sequential	
+
+    let  - parallel
+    let\* - sequential	
 
 Constructors
-   * cons
-   * quote
-   * '
+
+    cons
+    quote
+    '
 
 Selectors
-   * first   
-   * rest
+
+    first   
+    rest
 
 Recognizers
-   * consp
-   * null
+
+    consp
+    null
 
 Capturing the trace to a file 
-   * (dribble "output.txt")
+
+    (dribble "output.txt")
