@@ -41,3 +41,9 @@ Recognizers
 Capturing the trace to a file 
 
     (dribble "output.txt")
+
+Returning a list
+
+    ((list 1 2))    
+
+driver/auxiliary functions and accumulator variables
