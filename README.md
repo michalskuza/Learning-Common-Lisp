@@ -44,6 +44,6 @@ Capturing the trace to a file
 
 Returning a list
 
-    ((list 1 2))    
+    (list 1 2)    
 
 driver/auxiliary functions and accumulator variables
