@@ -55,3 +55,6 @@ Search iteration
 
    find-if
 
+Filter iteration
+
+   remove-if
