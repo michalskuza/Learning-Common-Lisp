@@ -47,3 +47,11 @@ Returning a list
     (list 1 2)    
 
 driver/auxiliary functions and accumulator variables
+
+Iterating through a list
+   mapcar
+
+Search iteration
+
+   find-if
+
