@@ -58,6 +58,7 @@ Search iteration
 Filter iteration
 
    remove-if
+   remove-if-not
 
 Returning Multiple Values
 
