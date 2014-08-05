@@ -58,3 +58,7 @@ Search iteration
 Filter iteration
 
    remove-if
+
+Returning Multiple Values
+
+   multiple-value-bind 

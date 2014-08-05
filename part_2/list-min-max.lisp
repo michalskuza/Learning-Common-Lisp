@@ -1,0 +1,11 @@
+(defun list-max-min (L)
+     (if (null L)
+      (values nil nil)
+    (list-min-max-aux (rest L) (first L) (first L))))
+
+(defun list-min-max-aux (L MINIMUM MAXIMUM)
+  (if (null L)
+      (values MINIMUM MAXIMUM)
+    (list-min-max-aux (rest L) 
+		      (min (first L) MINIMUM) 
+		      (max (first L) MAXIMUM))))
