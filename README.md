@@ -49,17 +49,18 @@ Returning a list
 driver/auxiliary functions and accumulator variables
 
 Iterating through a list
-   mapcar
+   
+    mapcar
 
 Search iteration
 
-   find-if
+    find-if
 
 Filter iteration
 
-   remove-if
-   remove-if-not
+    remove-if
+    remove-if-not
 
 Returning Multiple Values
 
-   multiple-value-bind 
+    multiple-value-bind 
