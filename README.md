@@ -44,6 +44,23 @@ Capturing the trace to a file
 
 Returning a list
 
-    ((list 1 2))    
+    (list 1 2)    
 
 driver/auxiliary functions and accumulator variables
+
+Iterating through a list
+   
+    mapcar
+
+Search iteration
+
+    find-if
+
+Filter iteration
+
+    remove-if
+    remove-if-not
+
+Returning Multiple Values
+
+    multiple-value-bind 
