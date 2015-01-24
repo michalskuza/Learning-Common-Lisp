@@ -30,8 +30,8 @@ Constructors
 
 Selectors
 
-    first   
-    rest
+    first - car
+    rest - cdr
 
 Recognizers
 
